@@ -15,4 +15,12 @@ A collection of concise write-ups on small things I learn day to day across a va
 | [<img src="https://github.com/kodeartisan/things-i-learned/blob/master/logo/react.png?raw=true" width="120px;" alt="React"/><br /><sub><b>React</b></sub>](https://github.com/kodeartisan/things-i-learned/tree/master/react)| [<img src="https://github.com/kodeartisan/things-i-learned/blob/master/logo/react.png?raw=true" width="120px;" alt="React Native"/><br /><sub><b>React Native</b></sub>](https://github.com/kodeartisan/things-i-learned/tree/master/react-native)| [<img src="https://github.com/kodeartisan/things-i-learned/blob/master/logo/flutter.png?raw=true" width="120px;" alt="Flutter"/><br /><sub><b>Flutter</b></sub>](https://github.com/kodeartisan/things-i-learned/tree/master/flutter)|[<img src="https://github.com/kodeartisan/things-i-learned/blob/master/logo/laravel.png?raw=true" width="120px;" alt="Laravel"/><br /><sub><b>Laravel</b></sub>](https://github.com/kodeartisan/things-i-learned/tree/master/laravel)|
 |--|--|--|--|
 
+## Libraries
+| [<img src="https://github.com/kodeartisan/things-i-learned/blob/master/logo/rx.png?raw=true" width="120px;" alt="RxJava"/><br /><sub><b>RxJava</b></sub>](https://github.com/kodeartisan/things-i-learned/tree/master/android)| [<img src="https://github.com/kodeartisan/things-i-learned/blob/master/logo/linux.png?raw=true" width="120px;" alt="Linux"/><br /><sub><b>Linux</b></sub>](https://github.com/kodeartisan/things-i-learned/tree/master/linux)|
+|--|--|
+
+## CMS
+| [<img src="https://github.com/kodeartisan/things-i-learned/blob/master/logo/october-cms.png?raw=true" width="120px;" alt="October CMS"/><br /><sub><b>October CMS</b></sub>](https://github.com/kodeartisan/things-i-learned/tree/master/android)|
+|--|
+
 

@@ -1,2 +1,3 @@
-# things-i-learned
-Things I Learned - A list of all things I learn on daily basis.
+# Thins I Learned
+
+A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies.

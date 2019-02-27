@@ -17,7 +17,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 
 ## Libraries
 | [<img src="https://github.com/kodeartisan/things-i-learned/blob/master/logo/rx.png?raw=true" width="120px;" alt="RxJava"/><br /><sub><b>RxJava</b></sub>](https://github.com/kodeartisan/things-i-learned/tree/master/android)| [<img src="https://github.com/kodeartisan/things-i-learned/blob/master/logo/retrofit.png?raw=true" width="120px;" alt="Retrofit"/><br /><sub><b>Retrofit</b></sub>](https://github.com/kodeartisan/things-i-learned/tree/master/retrofit)|[<img src="https://github.com/kodeartisan/things-i-learned/blob/master/logo/redux.png?raw=true" width="120px;" alt="Redux"/><br /><sub><b>Redux</b></sub>](https://github.com/kodeartisan/things-i-learned/tree/master/redux)|
-|--|--|--|--|
+|--|--|--|
 
 ## CMS
 | [<img src="https://github.com/kodeartisan/things-i-learned/blob/master/logo/octobercms.png?raw=true" width="120px;" alt="October CMS"/><br /><sub><b>October CMS</b></sub>](https://github.com/kodeartisan/things-i-learned/tree/master/october-cms)|

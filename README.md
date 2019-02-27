@@ -26,7 +26,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 ## Databases
 | [<img src="https://github.com/kodeartisan/things-i-learned/blob/master/logo/mysql.png?raw=true" width="120px;" alt="MySQL"/><br /><sub><b>MySQL</b></sub>](https://github.com/kodeartisan/things-i-learned/tree/master/mysql)|
 [<img src="https://github.com/kodeartisan/things-i-learned/blob/master/logo/mongodb.png?raw=true" width="120px;" alt="MongoDB"/><br /><sub><b>MongoDB</b></sub>](https://github.com/kodeartisan/things-i-learned/tree/master/mongodb)|
- [<img src="https://github.com/kodeartisan/things-i-learned/blob/master/logo/realm.png?raw=true" width="120px;" alt="Realm"/><br /><sub><b>Realm</b></sub>](https://github.com/kodeartisan/things-i-learned/tree/master/realm)|
-|--|--|--|
+ [<img src="https://github.com/kodeartisan/things-i-learned/blob/master/logo/realm.png?raw=true" width="120px;" alt="Realm"/><br /><sub><b>Realm</b></sub>](https://github.com/kodeartisan/things-i-learned/tree/master/realm)|[<img src="https://github.com/kodeartisan/things-i-learned/blob/master/logo/sqlite.png?raw=true" width="120px;" alt="SQLite"/><br /><sub><b>SQLite</b></sub>](https://github.com/kodeartisan/things-i-learned/tree/master/sqlite)|
+|--|--|--|--|
 
 
